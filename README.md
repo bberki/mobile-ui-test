@@ -35,4 +35,4 @@ Proje tek bir HTML dosyasından oluştuğu için herhangi bir paket kurulumuna (
 3.  İnternet bağlantınızın olduğundan emin olun (CDN kütüphaneleri için).
 
 ---
-*Geliştirici: [bberki] ve [ozyonerdem]*
+*Geliştirici: bberki ve ozyonerdem*
